@@ -27,7 +27,7 @@ namespace ArbaClick
             InitializeComponent();
             MessageBox.Show("Добро пожаловть в игру \"ArbaClick\"", "ArbaClick", MessageBoxButton.OK, MessageBoxImage.Information);
 
-            //BafsButtons.Children.Add
+            //BafsButtons.Children.Add b
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
